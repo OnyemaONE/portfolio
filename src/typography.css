@@ -1,0 +1,40 @@
+.hero-meta,
+.eyebrow,
+.mono,
+.hero-intro,
+.hero-index,
+.nav-links a,
+.text-link,
+.project-number,
+.project-caption span,
+.work-foot,
+.work-foot .text-link,
+.section-heading>p,
+.capabilities-title>p,
+.capability h3,
+.capability p,
+.about-text p,
+.experience-main h3,
+.experience-main>span,
+.experience-main p,
+.experience-period,
+.contact-bottom p,
+.email-link,
+.social-links a,
+.footer-inner,
+.modal-close,
+.case-content>.eyebrow,
+.case-description,
+.case-section h3,
+.case-section p,
+.case-story p,
+.case-highlight footer,
+.case-highlight-copy,
+.film>span{font-size:15px}
+.wordmark,.footer .wordmark{font-size:15px}
+.wordmark-dot{font-size:18px}
+.hero-meta,.eyebrow,.mono{font-size:11px}
+.about-mark{font-size:clamp(120px,20vw,290px)}
+@media(max-width:560px){.project-caption span,.about-text p,.case-description{font-size:15px}.about-mark{font-size:140px}}
+
+.case-description{font-size:24px}
